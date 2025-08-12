@@ -1,0 +1,2 @@
+ChatGPT said:
+A simple Python password manager using Tkinter for the GUI. It allows users to save website credentials securely, with fields for website, email/username, and password. Features include password generation and saving to a local file. Ideal for basic credential storage and practice with Tkinter.
